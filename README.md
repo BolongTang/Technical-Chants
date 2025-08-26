@@ -13,6 +13,9 @@ Common syllable counts:
 
 
 • Certain (additional) first words in the line are unstressed.
+
 • Words like "over" and "zero" can be read with one or two syllables. 
+
 • "'s" which is short for "is" has no syllable. 
+
 • "u sub x" may be shortened as "u x". 
