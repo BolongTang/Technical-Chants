@@ -2,10 +2,10 @@
 Technical subjects turned into chants.
 
 Common syllable counts:
-7-7-7-7
-5-5-5-5
-7-5-7-5
-6-7-6-7
+7-7-7-7 \n
+5-5-5-5 \n
+7-5-7-5 \n
+6-7-6-7 \n
 
 Certain (additional) first words in the line are unstressed.
 Words like "over" and "zero" can be read with one or two syllables. 
