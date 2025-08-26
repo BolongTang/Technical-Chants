@@ -1,0 +1,12 @@
+Schrödinger 2D,
+mass one, h bar kept:
+Neg h bar over 
+i then times u t
+Plus h bar squared o’er two
+then times paren u sub 
+x x plus u sub
+y y right paren
+Minus V x y
+Times u equals zero.
+V still potential,
+u ‘s R two to C.

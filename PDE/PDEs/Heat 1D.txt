@@ -1,0 +1,6 @@
+Heat or diffusion,
+’s one t less than wave;
+c squared now’s kappa,
+kappa should be pos;
+parabolic now,
+hyperbolic not.

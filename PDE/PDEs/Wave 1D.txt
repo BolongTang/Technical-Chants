@@ -1,0 +1,4 @@
+Wave in 1D is:
+u t t minus
+c squared u x x
+’s zero, c’s wave speed. 

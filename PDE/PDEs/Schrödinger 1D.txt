@@ -1,0 +1,10 @@
+Schrödinger’s Eq,
+mass one, h bar kept:
+Neg h bar over 
+i then times u t
+Plus h bar squared o’er two
+then times u sub x x 
+Minus V plug x
+Times u equals zero.
+Vx potential,
+u from R to C.

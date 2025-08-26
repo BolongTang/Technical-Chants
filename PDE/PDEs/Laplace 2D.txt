@@ -1,0 +1,3 @@
+Laplace in 2D:
+u sub x x plus
+u sub y y ‘s zero.

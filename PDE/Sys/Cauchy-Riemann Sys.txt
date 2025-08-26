@@ -1,0 +1,7 @@
+Cauchy-Riemann Sys:
+Pair of u and v,
+Functions of x, y.
+x, y in R two,
+Funcs: R two to R.
+u x is v y
+u y ‘s neg v x.

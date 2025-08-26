@@ -1,0 +1,6 @@
+Wave in 2D is
+u t t minus
+c squared left paren
+u sub x x plus
+u y y paren
+which equals zero.

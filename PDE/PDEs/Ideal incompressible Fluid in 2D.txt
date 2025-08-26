@@ -1,0 +1,11 @@
+Ideal incompressible
+Fluid in 2D:
+u v p plug x y t,
+Equations there’re three.
+rho’s one, constants gone. 
+u t plus u times u x,
+plus v u y ‘s neg p x.
+v t plus u times v x,
+Plus v v y ‘s neg p y.
+u x plus v y is zero.
+Euler’s sys—three eqs hold.

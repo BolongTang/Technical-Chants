@@ -1,5 +1,5 @@
 # Technical-Chants
-Technical subjects turned into chants.
+Technical subjects turned into chants. AI verified.
 
 Common syllable counts:
 
@@ -19,3 +19,4 @@ Common syllable counts:
 • "'s" which is short for "is" has no syllable. 
 
 • "u sub x" may be shortened as "u x". 
+

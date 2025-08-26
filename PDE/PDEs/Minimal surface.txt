@@ -1,0 +1,13 @@
+Minimal surface?
+u sub x over 
+Square root, and within:
+One plus u x squared 
+Plus u sub y squared.
+All by parens bound,
+Sub x, plus next term:
+u sub y over 
+Square root, and within:
+One plus u x squared 
+Plus u sub y squared.
+All by parens bound,
+Sub y, is zero.

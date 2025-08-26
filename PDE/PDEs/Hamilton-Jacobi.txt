@@ -1,0 +1,8 @@
+Hamilton invents
+Jacobi improves
+Eq with their names,
+mass one, constants gone:
+u t plus one half
+u x squared plus half 
+u y squared plus V
+plug x, y, get zero.

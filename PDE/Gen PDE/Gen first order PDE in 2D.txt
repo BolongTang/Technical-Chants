@@ -1,0 +1,6 @@
+Gen first order PDE?
+See case in 2D:
+x, y, u, u x, u y,
+F takes them, gives zero.
+Func F ‘s from R five to R,
+Takes two indep vars. 

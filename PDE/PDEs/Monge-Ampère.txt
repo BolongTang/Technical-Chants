@@ -1,0 +1,5 @@
+Monge-Ampère Eq:
+u sub x x times
+u y y minus
+u x y squared is
+f plug x and y.

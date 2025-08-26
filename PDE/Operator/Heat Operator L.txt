@@ -1,0 +1,8 @@
+Operator L:
+L square brackets u
+’s 1D Heat eq:
+u sub t minus
+kappa u x x. 
+u’s place our func goes,
+Which has x and t.
+Plug u shall give zero.

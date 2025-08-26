@@ -1,0 +1,7 @@
+Analytic test:
+f plug z does pass
+If it satisfies
+The CR rules above
+When it is of the form:
+u plus i times v,
+u, v plug x, y.

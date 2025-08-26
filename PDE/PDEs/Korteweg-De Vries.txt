@@ -1,0 +1,5 @@
+Korteweg-De Vries is
+u t plus u times
+u x plus u x
+x x equals zero.
+u’s six u pre-scaled. 
