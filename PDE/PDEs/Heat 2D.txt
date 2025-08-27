@@ -2,5 +2,11 @@ Heat eq 2D,
 ’s one t less than wave,
 c squared now’s kappa,
 kappa should be pos;
+
+u sub t minus
+kappa left paren
+u sub x x plus
+u y y paren
+equals to zero.
 parabolic now,
 hyperbolic not.
